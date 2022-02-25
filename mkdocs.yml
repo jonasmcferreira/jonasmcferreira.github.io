@@ -3,6 +3,8 @@ site_name: Jonas Ferreira
 nav:
     - Home: index.md
     - Blog: blog.md
+    - CV: cv.md
+    
 
 theme:
   name: material
@@ -17,7 +19,17 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: turn on the light
-  features:
-    - header.autohide
+  features: 
+    - toc.follow
 
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/jonasmcferreira
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jonasferreira/
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@thejonas
+  generator: false
 
+copyright: the code is the truth <3
