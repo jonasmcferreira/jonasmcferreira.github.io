@@ -1,2 +1,0 @@
-# jonasmcferreira.github.io
-mine
