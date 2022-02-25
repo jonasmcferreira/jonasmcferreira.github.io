@@ -1,7 +1,7 @@
-site_name: J
+site_name: Jonas Ferreira
 
 nav:
-    - J: index.md
+    - Home: index.md
     - Blog: blog.md
     - CV: cv.md
     
@@ -32,4 +32,4 @@ extra:
       link: https://medium.com/@thejonas
   generator: false
 
-copyright: the code is the truth <3
+copyright: code is love <3
