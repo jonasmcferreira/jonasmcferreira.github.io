@@ -1,15 +1,21 @@
 site_name: Jonas Ferreira
 
 nav:
-    - Home: index.md
+    - Jonas: index.md
     - Blog: blog.md
-    - Novel: novel.md
+#    - Novel: novel.md
+    - CV: cv.md
 
 theme:
   name: material
+  favicon: assets/images/terminal.svg
+  icon:
+    logo: octicons/terminal-16
   palette: 
     - scheme: default
       primary: teal
+      icon:
+      logo: material/library
       toggle:
         icon: material/toggle-switch-off-outline 
         name: turn off the light
@@ -20,6 +26,8 @@ theme:
         name: turn on the light
   features: 
     - toc.follow
+  font:
+    code: Roboto Mono
 
 extra:
   social:
@@ -27,8 +35,45 @@ extra:
       link: https://github.com/jonasmcferreira
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/jonasferreira/
-    - icon: fontawesome/brands/medium
-      link: https://medium.com/@thejonas
-  generator: false
+#    - icon: fontawesome/brands/medium
+#      link: https://medium.com/@thejonas
 
 copyright: code is love <3
+
+extra_css:
+  - stylesheets/extra.css
+  
+markdown_extensions:
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
