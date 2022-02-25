@@ -1,4 +1,9 @@
 site_name: Jonas Ferreira
+
+nav:
+    - Home: index.md
+    - Blog: blog.md
+
 theme:
   name: material
   palette: 
@@ -12,3 +17,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: turn on the light
+  features:
+    - header.autohide
+
+
