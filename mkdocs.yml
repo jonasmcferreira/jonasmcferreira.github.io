@@ -1,7 +1,7 @@
-site_name: Jonas Ferreira
+site_name: J
 
 nav:
-    - Home: index.md
+    - J: index.md
     - Blog: blog.md
     - CV: cv.md
     
