@@ -3,8 +3,7 @@ site_name: Jonas Ferreira
 nav:
     - Home: index.md
     - Blog: blog.md
-    - CV: cv.md
-    
+    - Novel: novel.md
 
 theme:
   name: material
