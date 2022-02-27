@@ -42,7 +42,9 @@ copyright: code is love <3
 
 extra_css:
   - stylesheets/extra.css
-  
+
+plugins: []
+
 markdown_extensions:
   # Python Markdown
   - abbr
