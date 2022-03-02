@@ -1,0 +1,12 @@
+markdown
+markdown-include
+
+mkdocs
+mkdocs-awesome-pages-plugin
+mkdocs-exclude
+mkdocs-markdownextradata-plugin
+mkdocs-material
+mkdocs-material-extensions
+mkdocs-redirects
+
+pymdown-extensions
