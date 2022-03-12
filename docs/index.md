@@ -1,14 +1,27 @@
-# Hi, i'm Jonas :wave: 
+# :wave: Hi, i'm Jonas 
 
-I'm a software engineer/coder/developer :technologist:, with a taste for large scale infrastructure and high-level architecture. :office:
+:technologist: I'm a software engineer/coder/developer , with a taste for large scale infrastructure and high-level architecture. :office:
 
-Having suffered through my share of Friday deployments, coding in production, and manual testing, I have become obsessed with automating things:robot_face:, so I can sleep well at night.
+:computer: I have done deployments on Friday, I have coded straight in production servers, I have made copious amounts of incomplete manual testing, I have accepted a lot of PR's without reviewing.
 
-I'm on [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/jonasferreira/) or [:fontawesome-brands-github:](https://github.com/jonasmcferreira)
+:sweat_smile: I have also suffered all the consequences, I believe they call that experience.
 
 ---
 
-- <img src="assets/images/bash.png" class="s-icon"/> love bashing away at my terminal
-- <img src="assets/images/cucumber.png" class="s-icon"/> BDD and Gherkin are a godsend
-- <img src="assets/images/aws.png" class="s-icon"/> currently working as a TAM for [Amazon Web Services](https://aws.amazon.com/)
-- <img src="assets/images/aws.png" class="s-icon"/> focusing on getting my AWS Solutions Architect Professional Certification
+!!! important "I am a big fan of"
+
+    - :fontawesome-solid-bug: Automated Testing with :fontawesome-brands-dev: BDD (Behaviour Driven Development)
+    - :fontawesome-solid-code-branch: Continuous Integration and :material-truck-delivery: Continuous Delivery
+    - :fontawesome-solid-code: Infrastructure as code
+    - :fontawesome-solid-chart-line: Auto Scalable Architectures
+    - :fontawesome-solid-lock: Security and :material-file-key: Encryption
+
+---
+
+:octicons-terminal-16: I love bashing away at my terminal.
+
+:material-aws: I am a big advocate of cloud computing, currently working as a **TAM** for [Amazon Web Services](https://aws.amazon.com/){:target="_blank"}
+
+:material-aws: studying for my **AWS Solutions Architect Professional Certification**
+
+You can find me on [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/jonasferreira/){:target="_blank"} or [:fontawesome-brands-github:](https://github.com/jonasmcferreira){:target="_blank"}

@@ -39,7 +39,7 @@ extra:
 #    - icon: fontawesome/brands/medium
 #      link: https://medium.com/@thejonas
 
-copyright: code is love <3
+copyright: code is love
 
 extra_css:
   - stylesheets/extra.css
