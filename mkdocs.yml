@@ -1,8 +1,8 @@
 site_name: Jonas Ferreira
 
 nav:
-    - Jonas: index.md
-    - scripts: scripts.md
+    - jonas: index.md
+    - scripts : scripts.md
 #    - Blog: blog.md
 #    - Novel: novel.md
     - cv: cv.md
@@ -14,14 +14,14 @@ theme:
     logo: octicons/terminal-16
   palette: 
     - scheme: default
-      primary: teal
+      primary: indigo
       icon:
       logo: material/library
       toggle:
         icon: material/toggle-switch-off-outline 
         name: turn off the light
     - scheme: slate 
-      primary: teal
+      primary: red
       toggle:
         icon: material/toggle-switch
         name: turn on the light
