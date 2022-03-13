@@ -18,15 +18,15 @@
 
 ---
 
-[:material-language-java:](https://www.java.com/) Java is amazing and I love it, and its cousin Kotlin [:material-language-kotlin:](https://kotlinlang.org/)
+[:material-language-java:](https://www.java.com/){:target="_blank"} Java is amazing and I love it, and its cousin Kotlin [:material-language-kotlin:](https://kotlinlang.org/){:target="_blank"}
 
-[:material-language-python:](https://www.python.org/) Python is a swiss army knife, and I love to automate with it
+[:material-language-python:](https://www.python.org/){:target="_blank"} Python is a swiss army knife, and I love to automate with it
 
-[:material-language-javascript:](https://www.javascript.com/) Javascript is a language I love to use, and I love to use it
+[:material-language-javascript:](https://www.javascript.com/){:target="_blank"} Javascript is a language I love to use, and I love to use it
 
-[:octicons-terminal-16:](https://devhints.io/bash) bash-ing away at my terminal is a great way to automate my day to day tasks
+[:octicons-terminal-16:](https://devhints.io/bash){:target="_blank"} bash-ing away at my terminal is a great way to automate my day to day tasks
 
-[:material-docker:](https://www.docker.com/) Docker and virtualization changed the development and operations landscape
+[:material-docker:](https://www.docker.com/){:target="_blank"} Docker and virtualization changed the development and operations landscape
 
 ---
 
