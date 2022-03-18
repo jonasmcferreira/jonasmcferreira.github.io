@@ -28,7 +28,7 @@ theme:
   features: 
     - toc.follow
   font:
-    code: Roboto Mono
+    code: Fira Code
 
 extra:
   social:
