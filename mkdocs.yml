@@ -3,9 +3,6 @@ site_name: Jonas Ferreira
 nav:
     - jonas: index.md
     - scripts : scripts.md
-#    - Blog: blog.md
-#    - Novel: novel.md
-    - cv: cv.md
 
 theme:
   name: material
