@@ -29,8 +29,7 @@
 [:material-docker:](https://www.docker.com/){:target="_blank"} Docker and virtualization changed the development and operations landscape
 
 ---
-
-:material-aws: currently working as a **TAM** for [Amazon Web Services](https://aws.amazon.com/){:target="_blank"}
+:material-aws: currently working as a **Technical Account Manager** for [Amazon Web Services](https://aws.amazon.com/){:target="_blank"}
 
 :material-aws: studying for my **AWS Solutions Architect Professional Certification**
 
