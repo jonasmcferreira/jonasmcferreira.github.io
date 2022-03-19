@@ -1,0 +1,11 @@
+.md-nav__title { display: none !important }
+.md-footer__inner { display: none !important }
+.md-search { display: none !important }
+.s-icon { 
+    max-width: 25px;
+    max-height: 25px;
+}
+.l-icon { 
+    max-width: 80px;
+    max-height: 80px;
+}
